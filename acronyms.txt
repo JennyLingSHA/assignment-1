@@ -12,9 +12,9 @@
 10.	CRT 	
 11.	DOS 	
 12.	IT	
-13.	MIS 	Management Information Systems
-A computer system, gathers data, analyzes information, reports data
-14.	GUI 	
+13.	MIS 	
+14.	GUI 	Graphical User Interface
+Allow users to interact with electronic devices through graphical icons and audio indicator
 15.	BIT 	
 16.	AWS 	
 17.	GPU 	
@@ -37,9 +37,9 @@ A computer system, gathers data, analyzes information, reports data
 34.	TCP/IP  	
 35.	DIMM 	
 36.	O365 	
-37.	GHz 	short for gigahertz
-a unit of measurement for AC or EM, representing a cycle of time
-38.	WYSIWYG 
+37.	GHz 	
+38.	WYSIWYG What You See Is What You Get
+A system where editing software allows content to be edited in a form
 39.	RAID	
 40.	SCSI 	
 41.	P2P 	
@@ -62,9 +62,9 @@ a unit of measurement for AC or EM, representing a cycle of time
 58.	VM	
 59.	WAP	
 60.	DBMS	
-61.	W3C	world wide web consortium
-an international community online
-62.	XML	
+61.	W3C	
+62.	XML	eXtensible Markup Language
+Much like HTML, desighed to store and transport data
 63.	VPN
 64.	RTF
 65.	IDE
