@@ -12,7 +12,8 @@
 10.	CRT 	
 11.	DOS 	
 12.	IT	
-13.	MIS 	
+13.	MIS 	Management Information Systems
+A computer system, gathers data, analyzes information, reports data
 14.	GUI 	
 15.	BIT 	
 16.	AWS 	
@@ -36,7 +37,8 @@
 34.	TCP/IP  	
 35.	DIMM 	
 36.	O365 	
-37.	GHz 	
+37.	GHz 	short for gigahertz
+a unit of measurement for AC or EM, representing a cycle of time
 38.	WYSIWYG 
 39.	RAID	
 40.	SCSI 	
@@ -60,7 +62,8 @@
 58.	VM	
 59.	WAP	
 60.	DBMS	
-61.	W3C	
+61.	W3C	world wide web consortium
+an international community online
 62.	XML	
 63.	VPN
 64.	RTF
@@ -74,5 +77,4 @@
 72.	SaaS
 73.	SIM
 74.	C2C  
-75.	B2B Business to Business
-  Company doing business with each other...
+75.	B2B  
